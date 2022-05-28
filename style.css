@@ -1,0 +1,73 @@
+body{
+	background-color:black;
+	overflow: overflow;
+	margin: 0;
+}
+
+*{
+ color: white;
+}
+h1{
+	font-size: 100px;
+
+}
+div.painel{
+	background-color: black;
+	padding: 5px 15px;
+	box-shadow: 5px 0px;
+}
+div.navbar{
+	overflow: hidden;
+	background-color: black;
+	position: ficed;
+	top: 0;
+	width: 100%;
+	box-shadow: 5px 5px black;
+}
+div.navbar a{
+	float: left;
+	display: block;
+	color: white;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+div.navbar a.right{
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+div.navbar img{
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 5px 16px;
+	text-decoration: none;
+}
+table{
+	float: center;
+	border: 1px solid black;
+	border-color: collapse;
+}
+th, td{
+	border-collapse: collapse;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
