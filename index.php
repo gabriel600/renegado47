@@ -33,7 +33,7 @@ include ("db.php");
 	<title></title>
 </head>
 <body>
-	<h1>karambolo gay
+	<h1>H
 	</h1>
 
 </body>
