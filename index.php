@@ -18,7 +18,7 @@ include ("db.php");
 		  <img src="img/GB.JPG"width="320px"><br/>
 		  <a href="https://mega.nz/file/u4dihaoY#OKmbVGzrhiJo0yY02QBI6ZEc-IAKuCk7RKaHZ1Jgm-Y">Link  Tool</a>
 		  <center>
-		  <a href="http://phonecenter1.ru/sss.php">register SN</a>
+		  <a href="#">register SN</a>
 		<div>
 	</center>
 </body>
